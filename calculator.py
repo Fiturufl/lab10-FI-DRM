@@ -1,3 +1,6 @@
+#https://github.com/Fiturufl/lab10-FI-DRM.git
+#Partner 1: Francisco Iturriaga
+#Partner 2: David Reyes-Munoz
 """
 calculator.py
 - Defines functions used to create a simple calculator
